@@ -1,0 +1,6 @@
+@Scraper.Server_HostAddress = http://localhost:5290
+
+GET {{Scraper.Server_HostAddress}}/scraper/
+Accept: application/json
+
+###
